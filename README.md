@@ -13,8 +13,8 @@
 ### Some GitHub stats
 
 <a href="https://github.com/zayts3v/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zayts3v&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayts3v&layout=compact&include_all_commits=true&langs_count=10&count_private=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zayts3v&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayts3v&layout=compact&include_all_commits=true&langs_count=10&count_private=true&theme=vision-friendly-dark" />
 </a>
 
 ### My Social Media
