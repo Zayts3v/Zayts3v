@@ -8,9 +8,12 @@
 ### About me:
 
 - :two::two: Years Old
-- :pt: Braga, Portugal
+- :PT: Braga, Portugal
 - :mortar_board: MSc Computer Engineering Student @ University of Minho
-- 
+- :eyes: Favorite languages:
+  * Python
+  * Java
+  * C++
 
 ### My Social Media
 
