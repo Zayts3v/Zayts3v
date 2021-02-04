@@ -3,6 +3,16 @@
 [![Zaytsev's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayts3v&count_private=true&show_icons=true&theme=dark)](https://github.com/zayts3v/zayts3v)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayts3v&layout=compact&theme=dark)](https://github.com/zayts3v/zayts3v)
 
+
+
+<a href="https://github.com/zayts3v/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zayts3v&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/zayts3v/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayts3v&layout=compact&theme=dark" />
+</a>
+
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
