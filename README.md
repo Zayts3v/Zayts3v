@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ### My Social Media 🌎
 
 <a target="_blank" href="https://www.facebook.com/tiagopinheiro1998">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Faceboook.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/tiagopinheiro98/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Instagram.svg" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/tiagopinheiro98/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://github.com/Zayts3v/Zayts3v/blob/main/LinkedIN.svg" />
 </a>
 <a target="_blank" href="mailto:tiago-pinha@hotmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img align="left" alt="Mail" width="22px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Outlook.svg" />
 </a>
