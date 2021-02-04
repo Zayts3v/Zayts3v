@@ -8,7 +8,7 @@
 ### About me:
 
 - :two::two: Years Old
-- :PT: Braga, Portugal
+-  &#127477;&#127481; Braga, Portugal
 - :mortar_board: MSc Computer Engineering Student @ University of Minho
 - :eyes: Favorite languages:
   * Python
