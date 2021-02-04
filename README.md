@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Zaytsev's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayts3v)](https://github.com/zayts3v/zayts3v)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
