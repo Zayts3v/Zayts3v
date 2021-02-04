@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### My Social Media 🌎
+### My Social Media
 
 <a target="_blank" href="https://www.facebook.com/tiagopinheiro1998">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Faceboook.svg" />
